@@ -149,7 +149,7 @@ The dashboard is built around our study, and two of its failure modes give no wa
 
 ## Try it yourself: set up the dashboard step by step
 
-You can have the sample dashboard open in a few minutes, with no EEG data and no coding. The code is on GitHub at [oeschutz/Sample\_EEG\_Dashboard](https://github.com/oeschutz/Sample_EEG_Dashboard). The steps below build the dashboard from synthetic sample data, the same data as in the screenshots above.
+You can have the sample dashboard open in a few minutes, with no EEG data and no coding. The code is on GitHub at [EPICLab/EEG-AI](https://github.com/EPICLab/EEG-AI/). The steps below build the dashboard from synthetic sample data, the same data as in the screenshots above.
 
 **What you need:** a computer with Python 3, plus the Terminal app on Mac (or Command Prompt on Windows). On Windows, type `python` wherever these steps say `python3`, and `copy` wherever they say `cp`.
 
